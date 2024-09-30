@@ -1,7 +1,3 @@
-<style>
-  blue {color:blue}
-</style>
-
 # Reunión - Think On Marketing
 ###### 16 de septiembre del 2024
 ## Google
@@ -28,7 +24,7 @@
 ## Email marketing
   -	Acciones para los “leads perdidos”: enviar newsletter.
 
-## <blue>Meta</blue>
+## <blue style='color:blue;'>Meta</blue>
   - ### Instagram
     - Crear publicidad de pago en IG (segmentarla): call to action, reel…
     - Añadir Linktree
