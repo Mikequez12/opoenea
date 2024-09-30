@@ -24,7 +24,7 @@
 ## Email marketing
   -	Acciones para los “leads perdidos”: enviar newsletter.
 
-## Meta
+## <b>Meta</b>
   - ### Instagram
     - Crear publicidad de pago en IG (segmentarla): call to action, reel…
     - Añadir Linktree
@@ -37,6 +37,6 @@
 
 
 ### Otros temas:
-  -	Ekhiñe: se puede solicitar el kit digital nuevamente??
-  -	Ekhiñe: siguientes pasos (segunda mentoría individual si/no…).
+  -	*Ekhiñe*: se puede solicitar el kit digital nuevamente??
+  -	*Ekhiñe*: siguientes pasos (segunda mentoría individual si/no…).
 
