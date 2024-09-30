@@ -22,9 +22,9 @@
   -	Mejorar el perfil de Nerea Albarran.
 
 ## Email marketing
-  -	Acciones para los “leads perdidos”: enviar newsletter.
+  -	Acciones para los <b>“leads perdidos”</b>: enviar newsletter.
 
-## <b>Meta</b>
+## Meta
   - ### Instagram
     - Crear publicidad de pago en IG (segmentarla): call to action, reel…
     - Añadir Linktree
