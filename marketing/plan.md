@@ -24,7 +24,7 @@
 ## Email marketing
   -	Acciones para los “leads perdidos”: enviar newsletter.
 
-## <blue style='color:blue;'>Meta</blue>
+## <span style='color:blue;'>Meta</span>
   - ### Instagram
     - Crear publicidad de pago en IG (segmentarla): call to action, reel…
     - Añadir Linktree
