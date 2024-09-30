@@ -25,13 +25,13 @@
   -	Acciones para los “leads perdidos”: enviar newsletter.
 
 ## Meta
-  1. ### Instagram
-   -	Crear publicidad de pago en IG (segmentarla): call to action, reel…
-   -	Añadir Linktree
-   -	Añadir mensaje automatizado de “fuera de horario” (como en whatsapp).
-   -	Chatbot: automatizar las respuestas de MD de ciertas preguntas.
-  2. ### Facebook
-   -	Crear cuenta de OPOENEA (ya hay una, ver como conseguir el email/contraseña). Solucionar el problema.
+  - ### Instagram
+    - Crear publicidad de pago en IG (segmentarla): call to action, reel…
+    - Añadir Linktree
+    - Añadir mensaje automatizado de “fuera de horario” (como en whatsapp).
+    - Chatbot: automatizar las respuestas de MD de ciertas preguntas.
+  - ### Facebook
+    - Crear cuenta de OPOENEA (ya hay una, ver como conseguir el email/contraseña). Solucionar el problema.
 
 
 
