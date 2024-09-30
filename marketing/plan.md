@@ -1,3 +1,7 @@
+<style>
+  blue {color:blue}
+</style>
+
 # Reunión - Think On Marketing
 ###### 16 de septiembre del 2024
 ## Google
@@ -22,9 +26,9 @@
   -	Mejorar el perfil de Nerea Albarran.
 
 ## Email marketing
-  -	Acciones para los <b>“leads perdidos”</b>: enviar newsletter.
+  -	Acciones para los “leads perdidos”: enviar newsletter.
 
-## Meta
+## <blue>Meta</blue>
   - ### Instagram
     - Crear publicidad de pago en IG (segmentarla): call to action, reel…
     - Añadir Linktree
